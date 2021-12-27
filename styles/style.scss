@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Poppins:wght@300;400;500;700&display=swap');
 
+@use './variables';
+
 * {
     margin: 0;
     padding: 0;
@@ -24,22 +26,6 @@ img {
     max-width: 100%;
 }
 
-// theme colors
-
-$primary: #326dee;
-$secondary: #1ac888;
-$error: #d32752;
-$info: #f6c31c;
-
-// spacing
-
-$base-padding: 0.75rem;
-$base-margin: 0.75rem;
-
-// borders 
-
-$base-border-thickness: 1px;
-$base-border-radius: 20px;
 
 h1 {
     color: $primary;
