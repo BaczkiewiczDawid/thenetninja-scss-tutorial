@@ -1280,6 +1280,21 @@ button {
   background-color: #326dee;
 }
 
+.btn-complement-key {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #326dee;
+  color: #fae7bf;
+}
+.btn-complement-key:hover {
+  color: #326dee;
+  background-color: #fae7bf;
+}
+
 .btn-secondary {
   text-decoration: none;
   cursor: pointer;
@@ -1305,6 +1320,21 @@ button {
 }
 .btn-outlined-secondary:hover {
   background-color: #1ac888;
+}
+
+.btn-complement-key {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #1ac888;
+  color: #f08bb0;
+}
+.btn-complement-key:hover {
+  color: #1ac888;
+  background-color: #f08bb0;
 }
 
 .btn-error {
@@ -1334,6 +1364,21 @@ button {
   background-color: #d32752;
 }
 
+.btn-complement-key {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #d32752;
+  color: #a5eedc;
+}
+.btn-complement-key:hover {
+  color: #d32752;
+  background-color: #a5eedc;
+}
+
 .btn-info {
   text-decoration: none;
   cursor: pointer;
@@ -1359,6 +1404,21 @@ button {
 }
 .btn-outlined-info:hover {
   background-color: #f6c31c;
+}
+
+.btn-complement-key {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #f6c31c;
+  color: #afc1fc;
+}
+.btn-complement-key:hover {
+  color: #f6c31c;
+  background-color: #afc1fc;
 }
 
 .btn-blue {
@@ -1388,6 +1448,21 @@ button {
   background-color: #1919e6;
 }
 
+.btn-complement-key {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #1919e6;
+  color: #f5f5a3;
+}
+.btn-complement-key:hover {
+  color: #1919e6;
+  background-color: #f5f5a3;
+}
+
 .btn-black {
   text-decoration: none;
   cursor: pointer;
@@ -1415,6 +1490,21 @@ button {
   background-color: black;
 }
 
+.btn-complement-key {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: black;
+  color: #4d4d4d;
+}
+.btn-complement-key:hover {
+  color: black;
+  background-color: #4d4d4d;
+}
+
 .btn-white {
   text-decoration: none;
   cursor: pointer;
@@ -1439,5 +1529,20 @@ button {
   border: 1px solid white;
 }
 .btn-outlined-white:hover {
+  background-color: white;
+}
+
+.btn-complement-key {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: white;
+  color: white;
+}
+.btn-complement-key:hover {
+  color: white;
   background-color: white;
 }
